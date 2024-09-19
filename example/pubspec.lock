@@ -332,10 +332,10 @@ packages:
     dependency: transitive
     description:
       name: photo_manager
-      sha256: e905cc9b3220bba8029e6e8da22962f8f7bba0a960f3fe094aed4750e2ed98af
+      sha256: df594f989f0c31cdb3ed48f3d49cb9ffadf11cc3700d2c3460b1912c93432621
       url: "https://pub.dev"
     source: hosted
-    version: "2.3.0"
+    version: "3.0.0"
   plugin_platform_interface:
     dependency: transitive
     description:
