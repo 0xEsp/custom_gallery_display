@@ -1,13 +1,13 @@
 # This is a generated file; do not edit or check into version control.
 camera=/Users/manuel.espeso/.pub-cache/hosted/pub.dev/camera-0.10.6/
 camera_android=/Users/manuel.espeso/.pub-cache/hosted/pub.dev/camera_android-0.10.9+2/
-camera_avfoundation=/Users/manuel.espeso/.pub-cache/hosted/pub.dev/camera_avfoundation-0.9.17+4/
+camera_avfoundation=/Users/manuel.espeso/.pub-cache/hosted/pub.dev/camera_avfoundation-0.9.17+5/
 camera_web=/Users/manuel.espeso/.pub-cache/hosted/pub.dev/camera_web-0.3.5/
-file_selector_linux=/Users/manuel.espeso/.pub-cache/hosted/pub.dev/file_selector_linux-0.9.3/
+file_selector_linux=/Users/manuel.espeso/.pub-cache/hosted/pub.dev/file_selector_linux-0.9.3+2/
 file_selector_macos=/Users/manuel.espeso/.pub-cache/hosted/pub.dev/file_selector_macos-0.9.4+2/
 file_selector_windows=/Users/manuel.espeso/.pub-cache/hosted/pub.dev/file_selector_windows-0.9.3+3/
 flutter_plugin_android_lifecycle=/Users/manuel.espeso/.pub-cache/hosted/pub.dev/flutter_plugin_android_lifecycle-2.0.19/
-image_crop=/Users/manuel.espeso/.pub-cache/git/image_crop-cc05a5055038b0679ef4006720724b970b0d6b42/
+image_crop=/Users/manuel.espeso/.pub-cache/git/image_crop-b2e43b532591e8686449af33bee2da5cf4787d9c/
 image_picker=/Users/manuel.espeso/.pub-cache/hosted/pub.dev/image_picker-0.8.9/
 image_picker_android=/Users/manuel.espeso/.pub-cache/hosted/pub.dev/image_picker_android-0.8.12+1/
 image_picker_for_web=/Users/manuel.espeso/.pub-cache/hosted/pub.dev/image_picker_for_web-2.2.0/
@@ -18,5 +18,5 @@ image_picker_windows=/Users/manuel.espeso/.pub-cache/hosted/pub.dev/image_picker
 photo_manager=/Users/manuel.espeso/.pub-cache/hosted/pub.dev/photo_manager-3.0.0/
 video_player=/Users/manuel.espeso/.pub-cache/hosted/pub.dev/video_player-2.9.2/
 video_player_android=/Users/manuel.espeso/.pub-cache/hosted/pub.dev/video_player_android-2.4.14/
-video_player_avfoundation=/Users/manuel.espeso/.pub-cache/hosted/pub.dev/video_player_avfoundation-2.6.2/
+video_player_avfoundation=/Users/manuel.espeso/.pub-cache/hosted/pub.dev/video_player_avfoundation-2.6.4/
 video_player_web=/Users/manuel.espeso/.pub-cache/hosted/pub.dev/video_player_web-2.3.2/
