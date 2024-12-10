@@ -180,8 +180,8 @@ packages:
     description:
       path: "."
       ref: HEAD
-      resolved-ref: cc05a5055038b0679ef4006720724b970b0d6b42
-      url: "https://github.com/tsafundzic/image_crop.git"
+      resolved-ref: d02848c8da99af6acf66433a56359235bb9add12
+      url: "https://github.com/0xEsp/image_crop.git"
     source: git
     version: "0.4.1"
   image_picker:
